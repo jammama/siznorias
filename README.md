@@ -1,2 +1,2 @@
 # siznorias
-# there's nothing special in this repository
+//there's nothing special in this repository
